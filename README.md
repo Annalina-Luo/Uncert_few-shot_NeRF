@@ -5,6 +5,8 @@ Neural Radiance Fields is a method that achieves state-of-the-art results for sy
 
 This project aims to quantify both aleatoric and epistemic uncertainties within few-shot NeRF, while preserving the fidelity of images derived from novel viewpoints.
 
+![image](result.png)
+
 ## Installation
 
 ```
